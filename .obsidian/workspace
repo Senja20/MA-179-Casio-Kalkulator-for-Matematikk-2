@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "deac509e56e87796",
+        "id": "3e01f722e424869e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "deac509e56e87796",
+  "active": "3e01f722e424869e",
   "lastOpenFiles": [
     "Matrix/Matrix Operations.md",
-    "Matrix/ScaleringMatriser/scalingMatrix.png",
-    "Untitled.md",
-    "Matrix/MatrixArithmeth/AdditionMatrix.png",
+    "Matrix/MatrixAddMatrix/addDirectEmptyMatrix.png",
+    "Matrix/MatrixAddMatrix/additionalInfoMatrixVinduet.png",
     "Matrix/MatrixAddMatrix/directDef.png",
     "Matrix/MatrixAddMatrix/mark-F3.png",
-    "Matrix/MatrixAddMatrix/matrixExample.png",
-    "Matrix/MatrixAddMatrix/matrixVindue.png",
+    "Matrix/MatrixAddMatrix/run-mat.png",
     "Matrix/MatrixAddMatrix/printMatrixA.png",
-    "Matrix/MatrixAddMatrix/addDirectEmptyMatrix.png"
+    "Matrix/MatrixAddMatrix/matrixVindue.png",
+    "Matrix/MatrixAddMatrix/matrixExample.png",
+    "Matrix/MatrixAddMatrix 1/run-mat.png.md"
   ]
 }

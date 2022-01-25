@@ -15,7 +15,7 @@ Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179. Denne m
 
 Manualen begynner fra ==RUN • MAT== mode som er standard start side som man kommer når man starter kalkulatoren. 
 
-<p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\run-mat.png" width="200" height="400" alt="run-mat calc" /><p/>
+![[MatrixAddMatrix/run-mat.png | 300 ]]
 
 Mode kan velges ved å trykke på **MENU** knappen på kalkulatoren.
 
