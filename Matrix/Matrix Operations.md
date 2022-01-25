@@ -2,7 +2,7 @@
 
 
 ## Introduksjon 
-Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
+Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
 
 - Definere matriser
 - Arithmetiske operasjoner med matriser  
@@ -14,8 +14,7 @@ Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179. Denne m
 - Augmentere matriser 
 
 Manualen begynner fra ==RUN • MAT== mode som er standard start side som man kommer når man starter kalkulatoren. 
-
-![run mat | 250](MatrixAddMatrix/run-mat.png)
+<p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
 Mode kan velges ved å trykke på **MENU** knappen på kalkulatoren.
 
@@ -27,7 +26,7 @@ Det er flere måter å definere matriser i CASIO kalkulatore. Under kan man finn
 
 Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
 
-<p align="center"><img src="MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
+<p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
 
 I dette vinuet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å velge. Ved å trykke **EXE** velger man matrisen, komme opp vinduet der brukeren kan velge dimensjonene på matrisen. m er rader og n er kollonner. 
@@ -92,11 +91,13 @@ width="400" alt="run-mat F3" /><p/>
 
 
 ### Subtraksjon 
+
 For å uføre subtraksjon må man første dente den ene matrisen og velge muinus (**-**), så legger man til slutt matrisen som skal være det andre ledde. 
 
 <p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixArithmeth\SubtractMat.png"
 width="400" alt="run-mat F3" /><p/>
 ## Multiplikasjon operasjon
+
 Det å gange to matriser ved hjelp av kalkulatoren er veldig likt arithmetiske operasjonen beskrevet over. Først brukeren må legge til "Mat" og deretter bokstaven til matrisen, deretter legge til "gange-operasjonen" og legge til matrisen som skal langes med. Dersom det er mulig å utføre denne operasjonen vil brukeren så et svar i form av produktet av de to matrisene.
 
 <p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixMultiplication\MatrixMultiplication.png"
@@ -104,9 +105,38 @@ width="400" alt="Gange Matrise A og B" /><p/>
 
 ## Scalering av matriser
 
+Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperasjonen som vi gjorde over. Først legge til "Mat", velger matrisen ved å legge å velge bokstaven. Deretter legger til gange tegn (**x**) og taller som vi ønsker å gange matrisen med.
 
 <p align="center">
 	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\ScaleringMatriser\scalingMatrix.png"
 	width="400" alt="run-mat F3" />
 <p/>
+## Pontense med matriser
 
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Potenser\PotenserMedMatriser.png"
+	width="400" alt="run-mat F3" />
+<p/>
+
+
+
+### Inverse av matriser
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Inverse\inverseMatrix.png"
+	width="400" alt="run-mat F3" />
+<p/>
+
+## Determinanten av matrisen
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Determinanten/DetButton.png"
+	width="400" alt="run-mat F3" />
+<p/>
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Determinanten/DetMatrixB.png"
+	width="400" alt="run-mat F3" />
+<p/>
+
+## Augmentere matriser 
