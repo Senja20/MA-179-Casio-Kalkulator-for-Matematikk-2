@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "75705154e28a2cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "deac509e56e87796",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matrix/Matrix Operations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99bd99c44e75e188",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e40cec6ad89693c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6c616eb5a33b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "378d3a2b01ad5642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5282e5ff1e3ed8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ae9f92e96ed872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e74b32ea4aae7cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matrix/Matrix Operations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "deac509e56e87796",
+  "lastOpenFiles": [
+    "Matrix/Matrix Operations.md",
+    "Matrix/ScaleringMatriser/scalingMatrix.png",
+    "Untitled.md",
+    "Matrix/MatrixArithmeth/AdditionMatrix.png",
+    "Matrix/MatrixAddMatrix/directDef.png",
+    "Matrix/MatrixAddMatrix/mark-F3.png",
+    "Matrix/MatrixAddMatrix/matrixExample.png",
+    "Matrix/MatrixAddMatrix/matrixVindue.png",
+    "Matrix/MatrixAddMatrix/printMatrixA.png",
+    "Matrix/MatrixAddMatrix/addDirectEmptyMatrix.png"
+  ]
+}
