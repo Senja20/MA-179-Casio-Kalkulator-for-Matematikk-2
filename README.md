@@ -33,7 +33,7 @@ Det er flere måter å definere matriser i CASIO kalkulatore. Under kan man finn
 
 Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
 
-<p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
+<p align="center"><img src="Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
 
 I dette vinuet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å velge. Ved å trykke **EXE** velger man matrisen, komme opp vinduet der brukeren kan velge dimensjonene på matrisen. m er rader og n er kollonner. 
