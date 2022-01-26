@@ -1,8 +1,8 @@
-# Matriser med Grafiske Calculatoren CASIO
+# Matriser med Grafiske Kalkulatoren CASIO
 
 
 ## Introduksjon 
-Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
+Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
 
 - Definere matriser
 - Arithmetiske operasjoner med matriser  
@@ -12,8 +12,9 @@ Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179 ved Univ
 - Finne determinanten til et matriser 
 - Potens med matriser
 - Augmentere matriser 
+- Sammensatte operasjoner
 
-Manualen begynner fra ==RUN • MAT== mode som er standard start side som man kommer når man starter kalkulatoren. 
+Manualen begynner fra ==RUN • MAT== mode som er standard start side som man kommer når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
 Mode kan velges ved å trykke på **MENU** knappen på kalkulatoren.
@@ -23,6 +24,10 @@ Mode kan velges ved å trykke på **MENU** knappen på kalkulatoren.
 Det er flere måter å definere matriser i CASIO kalkulatore. Under kan man finne to måter å gjøre dette. Den føtse er bedre dersom matriser skal brukes flere ganger. 
 
 ### 1. Standard definsjon
+
+------------------------
+#### denne definisjonen vil blir brukt videre
+----------------------------------
 
 Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
 
@@ -56,7 +61,9 @@ ________________________________________________________________________
 
 
 ### 2. Direkte definisjon
-
+-----------------------------------
+#### alternativ definisjon. I resten av manualet blir ikke denne definisjonen brukt
+----------------------------------------
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal definres. Man velger tørrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere velg ved bruk at **F6**. 
 <p align="center">
 <img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\directDef.png"
@@ -71,7 +78,7 @@ width="300" alt="run-mat F3" />
 <p/>
 ## Henter Lagert Matriser
 
-Ved å trykke på **OPTN** knappen for brukeren ulike opetions for operasjonene. For addisjon trenger brykeren å trykke på **F2**. Dette gjør at brukeren for tilgang på matrise operasjoner. Det første som gjøres er å trykke på **F1** for på skjærmen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velge matrisen ved på et av bokstavene på kalkulatorens tastaturen. 
+Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operasjner som kan gjennomføres. For å finne matrise operasjoner må man trykke på **F2**. Det første som gjøres er å trykke på **F1** for på skjærmen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velge matrisen ved på et av bokstavene på kalkulatorens tastaturen. 
 
 <p align="center">
 <img src="C:\Users\yauhe\MardDown\Calculator\Matrix\MatrixAddMatrix\printMatrixA.png"
@@ -113,6 +120,9 @@ Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperas
 <p/>
 ## Pontense med matriser
 
+  Vi kan gange matrisen med seg selv flere ganger ved først finne frem matrisen. Først trykker vi på **OPTN** og på **F2**. Det første som gjøres er å trykke på **F1** for på skjærmen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velge matrisen ved på et av bokstavene på kalkulatorens tastaturen. 
+
+  Deretter trykker vi på **^** kanppen for å kunne opphøye matrisen. Til slutt velger vi verdein på potensen og deretter trykker på **EXE** for å beregne produktet. 
 <p align="center">
 	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Potenser\PotenserMedMatriser.png"
 	width="400" alt="run-mat F3" />
@@ -122,21 +132,47 @@ Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperas
 
 ### Inverse av matriser
 
+Inverse matrisen er det sammen som å opphøye den i -1. Først trykker vi på **OPTN** og på **F2**. Det første som gjøres er å trykke på **F1** for på skjærmen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke vi på **^** knappen. I den boksen som kommer opp fyller vi **-** og 1 og trykker på **EXE** knappen. Dersom operasjonen er mulig å gjennomføre, vi den inverse matrisen komme opp. 
 <p align="center">
-	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Inverse\inverseMatrix.png"
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Potenser\inverseMatrix.png"
 	width="400" alt="run-mat F3" />
 <p/>
 
 ## Determinanten av matrisen
 
+Får å finne determinaten av en matrise må man først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. Vi får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge _Det_ ved å trykke på **F3**.  
+
 <p align="center">
 	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Determinanten/DetButton.png"
 	width="400" alt="run-mat F3" />
 <p/>
-
+Etter å ha legget til _Det_, velger man matrisern som skal kalkulatoren skal finne determinaten av. Først legger vi til _Mat_ og deretter legge til bokstaven som er reletart til matrisen. Vedå trykke på **EXE** får vi determinanten dersom den finnes. 
 <p align="center">
 	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Determinanten/DetMatrixB.png"
 	width="400" alt="run-mat F3" />
 <p/>
 
 ## Augmentere matriser 
+
+Det å slå sammen to matrisen kan gjøres ved hjelp av "Augment" operasjon. Vi finner den ved først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. I dette vinduet kan vi trykke på **F5** som er under _Aug_. _Augment_ skal komme opp på skjærmen. Den kommer med et åpen parantes. I denne funksjonen skal vi sende to matriser som skal bli slått sammen. 
+
+Vi legger til _Mat_ ved å trykke på **F1** og legger til bokstaven til den førse matrisen. Vi skal separer matrisene ved bruke av komma og det legger vi til ved bruk av **,** knappen. 
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Aug/kommaKnapp.png"
+	width="300" alt="run-mat F3" />
+<p/>
+
+Deretter legger vi til den andre matrisen, ved å igjen trykke på **F1** for å få opp _Mat_ og legge til bokstaven til matrisen. Til slutt lukker vi parantesen ved å trykke på **)** knappen og trykker på **EXE**. 
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\Aug/augMatrixAB.png"
+	width="400" alt="run-mat F3" />
+<p/>
+
+## Sammensatt operasjoner
+
+Det er veldig nytting og tidsparende å gjennomføre flere matrise operasjoner med en gang. Får å gjøre det sette vi _Mat_ og bokstaven til marisen, legger til operasjonen og den andre matrisen.  Deretter legger vi en operasjon til med en annen matrise som du kan se under. 
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\SammensattOpr/AxB-A.png"
+	width="400" alt="run-mat F3" />
+<p/>

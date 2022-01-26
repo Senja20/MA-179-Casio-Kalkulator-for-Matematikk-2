@@ -90,14 +90,14 @@
   "active": "3e01f722e424869e",
   "lastOpenFiles": [
     "Matrix/Matrix Operations.md",
-    "Matrix/Determinanten/DetMatrixB.png",
-    "Matrix/Determinanten/DetButton.png",
-    "Matrix/Potenser/PotenserMedMatriser.png",
-    "Matrix/Potenser/inverseMatrix.png",
+    "Matrix/SammensattOpr/AxB-A.png",
     "Untitled.md",
-    "Matrix/MatrixAddMatrix/addDirectEmptyMatrix.png",
-    "Matrix/MatrixAddMatrix/additionalInfoMatrixVinduet.png",
-    "Matrix/MatrixAddMatrix/directDef.png",
-    "Matrix/MatrixAddMatrix/mark-F3.png"
+    "Matrix/Aug/augMatrixAB.png",
+    "Matrix/MatrixAddMatrix/mark-F3.png",
+    "Matrix/MatrixAddMatrix/matrixExample.png",
+    "Matrix/MatrixAddMatrix/matrixVindue.png",
+    "Matrix/MatrixAddMatrix/printMatrixA.png",
+    "Matrix/MatrixAddMatrix/run-mat.png",
+    "Matrix/Determinanten/DetMatrixB.png"
   ]
 }
