@@ -187,6 +187,7 @@ Vi kan også bruke potenser og inverse i sammensatte operasjonen. For eksempel k
 	<img src="Matrix\SammensattOpr/AxBTimes2.png"
 	width="400" alt="Sammensatte med poteser" />
 <p/>
+
 ## Row echelone form (trappeform)
 
 Ved hjelp av kalkulatoren kan vi gjøre matrisene på trappeform. Det første vi skal gjøre er å trykker vi på **OPTN** og på **F2**. Trykker på **F6** og får opp andre operasjoner som vi kan gjøre med matrisene. Deretter trykker vi på **F4** for at _Ref_ skal komme opp.
