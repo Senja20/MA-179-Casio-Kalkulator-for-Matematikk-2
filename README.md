@@ -1,8 +1,8 @@
-# Matriser med Grafiske Calculatoren CASIO
+# Matriser med Grafiske Kalkulatoren CASIO
 
 
 ## Introduksjon 
-Denne manuealen er for bruk av CASIO calculatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
+Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
 
 - Definere matriser
 - Arithmetiske operasjoner med matriser  
