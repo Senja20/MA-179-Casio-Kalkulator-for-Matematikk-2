@@ -7,7 +7,7 @@ Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Univ
 - [Definere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#definering-av-matriser)
 - [Arithmetiske operasjoner med matriser](https://github.com/Senja20/Calculator/blob/main/README.md#arithmetiske-operasjoner)  
 - [Matrise scalering](https://github.com/Senja20/Calculator/blob/main/README.md#scalering-av-matriser)
-- Multiplicasjon av matriser
+- Matriser Multiplikasjon
 - Finne inverse av matriser
 - Finne determinanten til et matriser 
 - Potens med matriser
