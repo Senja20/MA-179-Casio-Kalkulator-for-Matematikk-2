@@ -123,7 +123,8 @@ Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperas
 	<img src="Matrix\ScaleringMatriser\scalingMatrix.png"
 	width="400" alt="matrix scale" />
 <p/>
-## Pontense med matriser
+
+## Matriser med Potenser
 
   Vi kan gange matrisen med seg selv flere ganger ved først finne frem matrisen. Først trykker vi på **OPTN** og på **F2**. Det første som gjøres er å trykke på **F1** for på skjærmen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velge matrisen ved på et av bokstavene på kalkulatorens tastaturen. 
 
