@@ -107,7 +107,8 @@ For å uføre subtraksjon må man første dente den ene matrisen og velge muinus
 	<img src="Matrix\MatrixArithmeth\SubtractMat.png"
 		width="400" alt="matrix subtaction" />
 <p/>
-## Multiplikasjon operasjon
+
+## Multiplikasjon av matriser 
 
 Det å gange to matriser ved hjelp av kalkulatoren er veldig likt arithmetiske operasjonen beskrevet over. Først brukeren må legge til "Mat" og deretter bokstaven til matrisen, deretter legge til "gange-operasjonen" og legge til matrisen som skal langes med. Dersom det er mulig å utføre denne operasjonen vil brukeren så et svar i form av produktet av de to matrisene.
 
