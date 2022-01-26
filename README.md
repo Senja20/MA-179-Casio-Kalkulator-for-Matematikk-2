@@ -9,7 +9,7 @@ Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Univ
 - [Matrise scalering](https://github.com/Senja20/Calculator/blob/main/README.md#scalering-av-matriser)
 - [Matriser multiplikasjon](https://github.com/Senja20/Calculator/blob/main/README.md#multiplikasjon-av-matriser)
 - [Inverse av matriser](https://github.com/Senja20/Calculator/blob/main/README.md#inverse-av-matriser)
-- Finne determinanten til et matriser 
+- [Determinanten av matrisen](https://github.com/Senja20/Calculator/blob/main/README.md#determinanten-av-matrisen) 
 - Potens med matriser
 - Augmentere matriser 
 - Sammensatte operasjoner
