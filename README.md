@@ -10,7 +10,7 @@ Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Univ
 - [Matriser multiplikasjon](https://github.com/Senja20/Calculator/blob/main/README.md#multiplikasjon-av-matriser)
 - [Inverse av matriser](https://github.com/Senja20/Calculator/blob/main/README.md#inverse-av-matriser)
 - [Determinanten av matrisen](https://github.com/Senja20/Calculator/blob/main/README.md#determinanten-av-matrisen) 
-- Potens med matriser
+- [Matriser med Potenser](https://github.com/Senja20/Calculator/blob/main/README.md#matriser-med-potenser)
 - Augmentere matriser 
 - Sammensatte operasjoner
 - Row echelon form (trappeform)
