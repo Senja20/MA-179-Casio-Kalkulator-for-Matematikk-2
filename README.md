@@ -5,7 +5,7 @@
 Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Universitet i Agder. Denne manualen er et foresikt for matrise operasjoner som kan bli utført av Casio kalulatore som er relevante for faget. Denne manualen skal gå gjennom følgende operasjoner: 
 
 - [Definere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#definering-av-matriser)
-- Arithmetiske operasjoner med matriser  
+- [Arithmetiske operasjoner med matriser](https://github.com/Senja20/Calculator/blob/main/README.md#arithmetiske-operasjoner)  
 - Multiplicasjon av matriser
 - Skalere matriser
 - Finne inverse av matriser
