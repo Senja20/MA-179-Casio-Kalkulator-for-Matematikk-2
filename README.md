@@ -14,7 +14,7 @@ Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Univ
 - [Augmentere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#augmentere-matriser) 
 - [Bruk av flere operasjoner sammen](https://github.com/Senja20/Calculator/blob/main/README.md#sammensatt-operasjoner)
 - [Row echelon form (trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#row-echelone-form-trappeform)
-- Reduced row echelon form (redusert trappeform)
+- [Reduced row echelon form (redusert trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#reduced-row-echelone-form-redusert-trappeform)
 
 Manualen begynner fra ==RUN • MAT== mode som er standard start side som man kommer når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
