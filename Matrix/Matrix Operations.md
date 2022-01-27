@@ -141,6 +141,23 @@ Inverse matrisen er det sammen som å opphøye den i -1. Først trykker vi på *
 	width="400" alt="matrix inverse" />
 <p/>
 
+## Tranpose 
+
+Det å transponere matriser er så enkelt som å legge _Trn_ før matrisen. Først trykker vi på **OPTN** og på **F2**. Deretter trykker vi på **F4** får å få _Trn_.   
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\trn\transposeButton.png"
+	width="400" alt="matrix inverse" />
+<p/>
+
+Det siste vi gjør er å trykke på **F1** for på skjærmen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velge matrisen ved på et av bokstavene på kalkulatorens tastaturen. 
+
+<p align="center">
+	<img src="C:\Users\yauhe\MardDown\Calculator\Matrix\trn/trnA.png"
+	width="400" alt="matrix inverse" />
+<p/>
+
+
 ## Determinanten av matrisen
 
 Får å finne determinaten av en matrise må man først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. Vi får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge _Det_ ved å trykke på **F3**.  

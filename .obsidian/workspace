@@ -90,6 +90,7 @@
   "active": "3e01f722e424869e",
   "lastOpenFiles": [
     "Matrix/Matrix Operations.md",
+    "Matrix/trn/trnA.png",
     "README.md",
     "Matrix/Rref/RrefMatC.png",
     "Matrix/Ref/RefReduced.png",
@@ -97,7 +98,6 @@
     "Untitled.md",
     "Matrix/Aug/augMatrixAB.png",
     "Matrix/MatrixAddMatrix/mark-F3.png",
-    "Matrix/MatrixAddMatrix/matrixExample.png",
-    "Matrix/MatrixAddMatrix/matrixVindue.png"
+    "Matrix/MatrixAddMatrix/matrixExample.png"
   ]
 }
