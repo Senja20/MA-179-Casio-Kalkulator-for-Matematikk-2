@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Matrix/Matrix Operations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Matrix/Matrix Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "3e01f722e424869e",
   "lastOpenFiles": [
-    "README.md",
     "Matrix/Matrix Operations.md",
+    "README.md",
     "Matrix/Rref/RrefMatC.png",
     "Matrix/Ref/RefReduced.png",
     "Matrix/SammensattOpr/AxB-A.png",

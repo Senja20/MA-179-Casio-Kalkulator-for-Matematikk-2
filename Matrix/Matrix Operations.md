@@ -9,6 +9,7 @@ Denne manuealen er for bruk av CASIO kalkulatoren i Matematikk 2 MA-179 ved Univ
 - Multiplicasjon av matriser
 - Skalere matriser
 - Finne inverse av matriser
+- Transponering
 - Finne determinanten til et matriser 
 - Potens med matriser
 - Augmentere matriser 
