@@ -8,7 +8,7 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 - [Arithmetiske operasjoner med matriser](https://github.com/Senja20/Calculator/blob/main/README.md#aritmetiske-operasjoner)  
 - [Matriseskalering](https://github.com/Senja20/Calculator/blob/main/README.md#skalering-av-matriser)
 - [Matrisemultiplikasjon](https://github.com/Senja20/Calculator/blob/main/README.md#matrisemultiplikasjon)
-- [Matriseinversjon](https://github.com/Senja20/Calculator/blob/main/README.md#inverse-av-matriser)
+- [Matriseinversjon](https://github.com/Senja20/Calculator/blob/main/README.md#matriseinversjon)
 - [Determinanten av matrisen](https://github.com/Senja20/Calculator/blob/main/README.md#determinanten-av-matrisen) 
 - [Matriser med potenser](https://github.com/Senja20/Calculator/blob/main/README.md#matriser-med-potenser)
 - [Augmentere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#augmentere-matriser) 
