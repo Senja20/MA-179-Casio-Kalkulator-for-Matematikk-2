@@ -80,6 +80,7 @@ Etter at man har valgt dimensjonene til matrisen kan man fylle inn verdiene og d
 <img src="Matrix\MatrixAddMatrix\addDirectEmptyMatrix.png"
 width="300" alt="alternative empty matrix" />
 <p/>
+
 ## Henter Lagrede Matriser
 
 Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operasjoner som kan gjennomføres. For å finne matriseoperasjoner må man trykke på **F2**. Det første som gjøres er å trykke på **F1** for at "Mat" skal komme opp på skjermen. Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved å velge en av bokstavene på kalkulatorens tastatur. 
