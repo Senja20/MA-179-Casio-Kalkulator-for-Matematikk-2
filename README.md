@@ -12,7 +12,7 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 - [Determinanten av matrisen](https://github.com/Senja20/Calculator/blob/main/README.md#determinanten-av-matrisen) 
 - [Matriser med potenser](https://github.com/Senja20/Calculator/blob/main/README.md#matriser-med-potenser)
 - [Augmentere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#augmentere-matriser) 
-- [Sammensatte operasjoner](https://github.com/Senja20/Calculator/blob/main/README.md#sammensatt-operasjoner)
+- [Sammensatte operasjoner](https://github.com/Senja20/Calculator/blob/main/README.md#sammensatte-operasjoner)
 - [Row echelon form (trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#row-echelone-form-trappeform)
 - [Reduced row echelon form (redusert trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#reduced-row-echelone-form-redusert-trappeform)
 
