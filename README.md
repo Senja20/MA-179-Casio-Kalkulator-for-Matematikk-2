@@ -96,7 +96,7 @@ Når man har definert en eller flere matriser, er det mulig å utføre ulike ope
 
 ### Addisjon 
 
-For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (**+**) symbolet og legge til en annen matrise på slutten. Dersom er er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
+For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (**+**) symbolet og legge til en annen matrise på slutten. Dersom er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
 
 <p align="center"><img src="Matrix\MatrixArithmeth\AdditionMatrix.png"
 width="400" alt="Adding matrix" /><p/>
