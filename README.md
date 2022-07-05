@@ -42,7 +42,7 @@ I dette vinuet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑
 width="300" alt="Matrix Manu" />
 <p />
 
-Etter at man har bestet størrelsene på matrisen trykker man på  **EXE** en gang for å komme i Matrise viduet der man kan definere verdiene i matrisen. 
+Etter at man har bestemt størrelsene på matrisen trykker man på  **EXE** en gang for å komme i Matrise viduet der man kan definere verdiene i matrisen. 
 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\matrixExample.png" 
