@@ -50,7 +50,7 @@ width="300" alt="matrix define window" />
 <p/>
 
 
-Matrise lager automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
+Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 
 ------------------------------------------------------------------------
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) valge matrisen, spesifikke matrisen og endre dimensjonen på matrisen.
