@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matrix/Matrix Operations.md",
+            "file": "CASIO for MA-179 Calculator usage (EN).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix/Matrix Operations.md",
+                "file": "CASIO for MA-179 Calculator usage (EN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "3e01f722e424869e",
   "lastOpenFiles": [
-    "Matrix/Matrix Operations.md",
-    "Matrix/trn/trnA.png",
+    "CASIO for MA-179 Calculator usage (EN).md",
     "README.md",
+    "Matrix/Matrix Operasjoner(klone og åpen med Obsidian).md",
+    "Matrix/trn/trnA.png",
     "Matrix/Rref/RrefMatC.png",
     "Matrix/Ref/RefReduced.png",
     "Matrix/SammensattOpr/AxB-A.png",
-    "Untitled.md",
     "Matrix/Aug/augMatrixAB.png",
     "Matrix/MatrixAddMatrix/mark-F3.png",
     "Matrix/MatrixAddMatrix/matrixExample.png"
