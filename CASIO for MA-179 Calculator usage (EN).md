@@ -1,4 +1,4 @@
-# Matriser med Grafiske Kalkulatoren CASIO
+# Maxtrix with CASIO Graphic calculator
 
 
 ## Introduction 
