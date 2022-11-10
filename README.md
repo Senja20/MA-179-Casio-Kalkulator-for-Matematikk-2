@@ -2,7 +2,7 @@
 
 
 ## Introduksjon 
-Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Universitet i Agder. Manualen skal være en oversikt over matriseoperasjoner som kan utføres på Casio kalulatoren som er relevant for faget. En digial emulator kan blir lastet ned fra [casion nettsiden](https://edu.casio.com/softwarelicense/index.php). I denne manualen skal det presenteres følgende operasjoner: 
+Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Universitet i Agder. Manualen skal være en oversikt over matriseoperasjoner som kan utføres på Casio kalulatoren som er relevant for faget. En digial emulator kan blir lastet ned fra [casio nettsiden](https://edu.casio.com/softwarelicense/index.php). I denne manualen skal det presenteres følgende operasjoner: 
 
 - [Definere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#definere-matriser)
 - [Arithmetiske operasjoner med matriser](https://github.com/Senja20/Calculator/blob/main/README.md#aritmetiske-operasjoner)  
