@@ -19,18 +19,18 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
 
-Mode kan velges ved å trykke på **MENU** knappen.
+Mode kan velges ved å trykke på **MENU** knappen.  <br> 
 
-## Definere matriser 
+## Definere matriser  
 
 Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på. 
 
-### 1. Standard definsjon
+### 1. Standard definsjon <br> 
 
 
------------------------------------------------
-#### Denne definisjonen vil blir brukt videre
--------------------------------------------------------------
+----------------------------------------------- <br> 
+#### Denne definisjonen vil blir brukt videre <br> 
+------------------------------------------------------------- <br> 
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger.
 
