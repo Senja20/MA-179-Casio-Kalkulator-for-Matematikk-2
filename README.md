@@ -28,9 +28,9 @@ Mode kan velges ved å trykke på **MENU** knappen.
 ### 1. Standard definsjon <br>
 
 
-<br>----------------------------------------------------------------------------<br>
+<br><hr class="dashed"><br>
 #### Denne definisjonen vil blir brukt videre<br>
-<br>--------------------------------------------------------------------------------<br>
+<br><hr class="dashed"><br>
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger. 
 
