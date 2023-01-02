@@ -21,16 +21,16 @@ Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kom
 
 Mode kan velges ved å trykke på **MENU** knappen.  
 
-## Definere matriser  
+## Definere matriser  <br>
 
-Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.
+<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
 
-### 1. Standard definsjon 
+### 1. Standard definsjon <br>
 
 
-----------------------------------------------------------------------------
-#### Denne definisjonen vil blir brukt videre
---------------------------------------------------------------------------------
+<br>----------------------------------------------------------------------------<br>
+#### Denne definisjonen vil blir brukt videre<br>
+<br>--------------------------------------------------------------------------------<br>
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger. 
 
@@ -55,21 +55,21 @@ width="300" alt="matrix define window" />
 Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
---------------------------------------------------------------------------------  
+<br>--------------------------------------------------------------------------------  <br>
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
 width="300" alt="Matrix alternaive" />
 <p/>
 
--------------------------------------------------------------- 
+<br>-------------------------------------------------------------- <br>
 
 
-### 2. Direkte definisjon 
+### 2. Direkte definisjon <br>
 
------------------------------------------------------------------- 
-#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt 
-----------------------------------------------------------------------------
+<br>------------------------------------------------------------------ <br>
+#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
+<br>----------------------------------------------------------------------------<br>
 
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
 <p align="center">
@@ -84,7 +84,7 @@ Etter at man har valgt dimensjonene til matrisen kan man fylle inn verdiene og d
 width="300" alt="alternative empty matrix" />
 <p/>
 
-## Henter Lagrede Matriser
+<br>## Henter Lagrede Matriser<br>
 
 Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operasjoner som kan gjennomføres. For å finne matriseoperasjoner må man trykke på **F2**. Det første som gjøres er å trykke på **F1** for at "Mat" skal komme opp på skjermen. Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved å velge en av bokstavene på kalkulatorens tastatur. 
 
@@ -93,11 +93,11 @@ Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operas
 width="300" alt="F1 and alpha" />
 <p/>
 
-## Aritmetiske operasjoner
+## Aritmetiske operasjoner<br>
 
 Når man har definert en eller flere matriser, er det mulig å utføre ulike operasjoner som addisjon og subtrasjon. 
 
-### Addisjon 
+### Addisjon <br>
 
 For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (**+**) symbolet og legge til en annen matrise på slutten. Dersom er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
 
