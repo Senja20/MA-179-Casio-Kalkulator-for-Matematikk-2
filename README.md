@@ -93,7 +93,7 @@ width="300" alt="F1 and alpha" />
 
 <br>## Aritmetiske operasjoner<br><br>
 
-Når man har definert en eller flere matriser, er det mulig å utføre ulike operasjoner som addisjon og subtrasjon. 
+Når man har definert en eller flere matriser, er det mulig å utføre ulike operasjoner som addisjon og subtrasjon. <br>
 
 <br>### Addisjon <br><br>
 
@@ -150,7 +150,7 @@ Inverse matrisen er det sammen som å opphøye en matrise i <b>-1</b>. Først tr
 
 <br>## Determinanten av matrisen <br><br>
 
-Får å finne determinaten av en matrise må man først trykke på <b>EXE</b og deretter velge "Mat" ved å trykke på <b>F2</b>. Man får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge <i>Det</i> ved å trykke på <b>F3</b>.  
+Får å finne determinaten av en matrise må man først trykke på <b>EXE</b> og deretter velge "Mat" ved å trykke på <b>F2</b>. Man får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge <i>Det</i> ved å trykke på <b>F3</b>.  
 
 <p align="center">
 	<img src="Matrix\Determinanten/DetButton.png"
