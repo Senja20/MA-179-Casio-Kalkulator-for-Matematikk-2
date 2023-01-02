@@ -62,13 +62,13 @@ På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DE
 width="300" alt="Matrix alternaive" />
 <p/>
 
-<br>-------------------------------------------------------------- <br>
+<br>-------------------------------------------------------------- <br><br>
 
 
-### 2. Direkte definisjon <br>
+<br>### 2. Direkte definisjon <br>
 
 <br>------------------------------------------------------------------ <br>
-#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
+<br>#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
 <br>----------------------------------------------------------------------------<br>
 
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
