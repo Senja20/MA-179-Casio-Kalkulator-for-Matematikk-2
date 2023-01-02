@@ -55,7 +55,7 @@ width="300" alt="matrix define window" />
 Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
-------------------------------------------------------------------------
+<hr width="50%" size="8" align="center">
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
