@@ -62,8 +62,7 @@ På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DE
 width="300" alt="Matrix alternaive" />
 <p/>
 
-<br><hr class="dashed" width="100%"><br><br>
-
+<br><hr class="dashed" width="100%"><br>
 
 <br>### 2. Direkte definisjon <br>
 
