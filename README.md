@@ -19,26 +19,26 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
 
-Mode kan velges ved å trykke på **MENU** knappen.  <br> 
+ <br> Mode kan velges ved å trykke på **MENU** knappen.  <br> 
 
 ## Definere matriser  
 
-Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på. 
+ <br> Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.  <br> 
 
 ### 1. Standard definsjon <br> 
 
 
------------------------------------------------ <br> 
+ <hr class="dashed"><br> 
 #### Denne definisjonen vil blir brukt videre <br> 
-------------------------------------------------------------- <br> 
+ <hr class="dashed"> <br> 
 
-Denne metoden er bedre dersom matriser skal brukes flere ganger.
+Denne metoden er bedre dersom matriser skal brukes flere ganger. <br> <br> 
 
-Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
+Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec". <br> 
 
 <p align="center"><img src="Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
-I dette vinduet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å definere. Ved å trykke **EXE** velger man matrisen, kommer inn til vinduet der brukeren kan velge dimensjonene på matrisen der m er rader og n er kolonner. 
+I dette vinduet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å definere. Ved å trykke **EXE** velger man matrisen, kommer inn til vinduet der brukeren kan velge dimensjonene på matrisen der m er rader og n er kolonner. <br> 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\matrixVindue.png" 
 width="300" alt="Matrix Manu" />
@@ -55,21 +55,21 @@ width="300" alt="matrix define window" />
 Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------- <br> 
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
 width="300" alt="Matrix alternaive" />
 <p/>
 
---------------------------------------------------------------
+-------------------------------------------------------------- <br> 
 
 
-### 2. Direkte definisjon
+### 2. Direkte definisjon 
 
-------------------------------------------------------------------
-#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt
-----------------------------------------------------------------------------
+------------------------------------------------------------------ <br> 
+#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br> 
+---------------------------------------------------------------------------- <br> 
 
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
 <p align="center">
