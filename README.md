@@ -19,11 +19,11 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
 
-Mode kan velges ved å trykke på **MENU** knappen.  
+Mode kan velges ved å trykke på <span class="bolded">MENU</span> knappen.  
 
 ## Definere matriser  <br>
 
-<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br><br>
+<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
 
 ### 1. Standard definsjon <br>
 
@@ -62,9 +62,9 @@ På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DE
 width="300" alt="Matrix alternaive" />
 <p/>
 
-<br><hr class="dashed" width="100%"><br>
+<hr class="dashed" width="100%"><br>
 
-<br>### 2. Direkte definisjon <br>
+### 2. Direkte definisjon <br>
 
 <br><hr class="dashed" width="100%"><br>
 <br>#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
@@ -83,7 +83,7 @@ Etter at man har valgt dimensjonene til matrisen kan man fylle inn verdiene og d
 width="300" alt="alternative empty matrix" />
 <p/>
 
-<br>## Henter Lagrede Matriser<br>
+<br>## Henter Lagrede Matriser<br><br>
 
 Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operasjoner som kan gjennomføres. For å finne matriseoperasjoner må man trykke på **F2**. Det første som gjøres er å trykke på **F1** for at "Mat" skal komme opp på skjermen. Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved å velge en av bokstavene på kalkulatorens tastatur. 
 
@@ -92,11 +92,11 @@ Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operas
 width="300" alt="F1 and alpha" />
 <p/>
 
-## Aritmetiske operasjoner<br>
+## Aritmetiske operasjoner<br><br>
 
 Når man har definert en eller flere matriser, er det mulig å utføre ulike operasjoner som addisjon og subtrasjon. 
 
-### Addisjon <br>
+<br>### Addisjon <br><br>
 
 For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (**+**) symbolet og legge til en annen matrise på slutten. Dersom er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
 
@@ -104,7 +104,7 @@ For å utføre addisjon må man første legge til "Mat" og deretter velge boksta
 width="400" alt="Adding matrix" /><p/>
 
 
-### Subtraksjon 
+<br>### Subtraksjon <br><br>
 
 For å uføre subtraksjon må man første legge til den ene matrisen, velge muinus (**-**) og legge til den andre matrisen. 
 
@@ -113,14 +113,14 @@ For å uføre subtraksjon må man første legge til den ene matrisen, velge muin
 		width="400" alt="matrix subtaction" />
 <p/>
 
-## Matrisemultiplikasjon
+<br>## Matrisemultiplikasjon <br><br>
 
 Å gange sammen to matriser ved hjelp av kalkulatoren er veldig likt de aritmetiske operasjonene som er beskrevet over. Først legger brukeren til "Mat" og deretter bokstaven til matrisen. Deretter legger man "gange-operatoren" til og legger til den andre matrisen. Dersom det er mulig å utføre operasjonen vil brukeren så et svar i form av produktet av de to matrisene.
 
 <p align="center"><img src="Matrix\MatrixMultiplication\MatrixMultiplication.png"
 width="400" alt="Gange Matrise A og B" /><p/>
 
-## Skalering av matriser
+<br>## Skalering av matriser <br><br>
 
 Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperasjonen som vi gjorde over. For å skalere matrisen legger man til "Mat" og velger matrisen slik det ble beskrevet ovenfor. Deretter legger man til gangetegnet (**x**) og tallet som man ønsker å gange matrisen med.
 
@@ -129,7 +129,7 @@ Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperas
 	width="400" alt="matrix scale" />
 <p/>
 
-## Matriser med potenser
+<br>## Matriser med potenser <br><br>
 
 For å kunne gange matrisen med seg selv flere ganger ved å først finne frem matrisen slik det ble beskrevet ovenfor.
 
@@ -141,7 +141,7 @@ Deretter trykker man på **^** kanppen for å kunne velge eksponenten. Til slutt
 
 
 
-### Matriseinversjon
+<br>### Matriseinversjon <br><br>
 
 Inverse matrisen er det sammen som å opphøye en matrise i -1. Først trykker man på **OPTN** og på **F2**. Det første som gjøres er å trykke på **F1** for på skjermen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke man på **^** knappen. I den boksen som kommer opp fyller man inn **-** og 1 og trykker på **EXE** knappen. Dersom operasjonen er mulig å gjennomføre, vil den inverse matrisen komme opp. 
 <p align="center">
@@ -149,7 +149,7 @@ Inverse matrisen er det sammen som å opphøye en matrise i -1. Først trykker m
 	width="400" alt="matrix inverse" />
 <p/>
 
-## Determinanten av matrisen
+<br>## Determinanten av matrisen <br><br>
 
 Får å finne determinaten av en matrise må man først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. Man får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge _Det_ ved å trykke på **F3**.  
 
@@ -163,7 +163,7 @@ Etter å ha lagt til _Det_, velger man matrisen man ønsker å finne determinate
 	width="400" alt="Determinant of a matrix" />
 <p/>
 
-## Augmentere matriser 
+<br>## Augmentere matriser <br><br>
 
 Det å slå sammen to matrisen kan gjøres ved hjelp av "Augment" operasjonen. Man finner den ved å først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. I dette vinduet kan vi trykke på **F5** som er under _Aug_. _Augment_ skal komme opp på skjermen. Den kommer med en åpen parantes. I denne funksjonen skal man sende inn to matriser som skal bli slått sammen. 
 
@@ -180,7 +180,7 @@ Deretter legger man til den andre matrisen, ved å igjen trykke på **F1** for �
 	width="400" alt="Augment function " />
 <p/>
 
-## Sammensatte operasjoner
+<br>## Sammensatte operasjoner <br><br>
 
 Det er veldig nytting og tidsparende å gjennomføre flere matrise operasjoner på en gang. Får å gjøre det setter man _Mat_ og bokstaven til marisen, legger til operasjonen og den andre matrisen.  Deretter legger man en operasjon til med en annen matrise, slik det er vist under. 
 <p align="center">
@@ -193,7 +193,7 @@ Man kan også bruke potenser og inverser i sammensatte operasjoner. For eksempel
 	width="400" alt="Sammensatte med poteser" />
 <p/>
 
-## Row echelone form (trappeform)
+<br>## Row echelone form (trappeform)<br><br>
 
 Ved hjelp av kalkulatoren kan man gjøre matrisene på trappeform. Det første man skal gjøre er å trykker vi på **OPTN** og på **F2**. Trykker man på **F6** og får opp andre operasjoner som man kan gjøre med matriser. Deretter trykker man på **F4** for at _Ref_ skal komme opp.
 <p align="center">
