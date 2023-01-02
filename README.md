@@ -142,7 +142,7 @@ Deretter trykker man på <b>^</b> kanppen for å kunne velge eksponenten. Til sl
 
 <br>### Matriseinversjon <br><br>
 
-Inverse matrisen er det sammen som å opphøye en matrise i <b>-1</b>. Først trykker man på <b>OPTN</b> og på <b>F2</b>. Det første som gjøres er å trykke på <b>F1</b> for på skjermen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke man på <b>^</b> knappen. I den boksen som kommer opp fyller man inn <b/>-</b> og 1 og trykker på <b>EXE</b> knappen. Dersom operasjonen er mulig å gjennomføre, vil den inverse matrisen komme opp. 
+Inverse matrisen er det sammen som å opphøye en matrise i <b>-1</b>. Først trykker man på <b>OPTN</b> og på <b>F2</b>. Det første som gjøres er å trykke på <b>F1</b> for på skjermen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke man på <b>^</b> knappen. I den boksen som kommer opp fyller man inn <b>-</b> og 1 og trykker på <b>EXE</b> knappen. Dersom operasjonen er mulig å gjennomføre, vil den inverse matrisen komme opp. 
 <p align="center">
 	<img src="Matrix\Potenser\inverseMatrix.png"
 	width="400" alt="matrix inverse" />
