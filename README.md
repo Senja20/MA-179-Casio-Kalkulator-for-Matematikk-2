@@ -34,7 +34,7 @@ Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger.
 
-Ved å trykke på **F3** på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
+Ved å trykke på <strong>F3</strong> på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
 
 <p align="center"><img src="Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
