@@ -6,15 +6,15 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 
 - [Definere matriser](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#1-standard-definsjon)
 - [Arithmetiske operasjoner med matriser](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#aritmetiske-operasjoner)
-- [Matriseskalering](https://github.com/Senja20/Calculator/blob/main/README.md#skalering-av-matriser)
+- [Matriseskalering](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#skalering-av-matriser)
 - [Matrisemultiplikasjon](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#matrisemultiplikasjon)
-- [Inverse matriser](https://github.com/Senja20/Calculator/blob/main/README.md#inverse-av-matriser)
-- [Determinanten av matrisen](https://github.com/Senja20/Calculator/blob/main/README.md#determinanten-av-matrisen) 
-- [Matriser med potenser](https://github.com/Senja20/Calculator/blob/main/README.md#matriser-med-potenser)
-- [Augmentere matriser](https://github.com/Senja20/Calculator/blob/main/README.md#augmentere-matriser) 
-- [Sammensatte operasjoner](https://github.com/Senja20/Calculator/blob/main/README.md#sammensatte-operasjoner)
-- [Row echelon form (trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#row-echelone-form-trappeform)
-- [Reduced row echelon form (redusert trappeform)](https://github.com/Senja20/Calculator/blob/main/README.md#reduced-row-echelone-form-redusert-trappeform)
+- [Inverse matriser](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#inverse-av-matriser)
+- [Determinanten av matrisen](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#determinanten-av-matrisen) 
+- [Matriser med potenser](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#matriser-med-potenser)
+- [Augmentere matriser](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#augmentere-matriser) 
+- [Sammensatte operasjoner](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#sammensatte-operasjoner)
+- [Row echelon form (trappeform)](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#row-echelone-form-trappeform)
+- [Reduced row echelon form (redusert trappeform)](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#reduced-row-echelone-form-redusert-trappeform)
 
 Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
