@@ -16,16 +16,16 @@ Denne manualen er for bruk av CASIO kalkulatoren i Matematikk 2 (MA-179) ved Uni
 - [Row echelon form (trappeform)](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#row-echelone-form-trappeform)
 - [Reduced row echelon form (redusert trappeform)](https://github.com/Senja20/MA-179-Casio-Kalkulator-for-Matematikk-2/blob/main/README.md#reduced-row-echelone-form-redusert-trappeform)
 
-Manualen begynner fra ==RUN • MAT== mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
+Manualen begynner fra <span style="background-color: #FFFF00"> RUN • MAT </span> mode som er standard startside som man kommer til når man starter kalkulatoren. Under kan man se kalulatoren i RUN • MAT mode. 
 <p align="center"><img src="Matrix\MatrixAddMatrix\run-mat.png" width="300" alt="run-mat"  class="center" /><p/>
 
 Mode kan velges ved å trykke på <b>MENU</b> knappen.  
 
-## Definere matriser  <br>
+<br><br>## Definere matriser  <br>
 
 <br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
 
-### 1. Standard definsjon <br>
+ <br>### 1. Standard definsjon <br>
 
 <hr class="dashed" width="100%"><br>
 #### Denne definisjonen blir brukt videre
@@ -37,13 +37,13 @@ Ved å trykke på <b>F3</b> på kalkulatoren kommer man inn i "Matrix edition" v
 
 <p align="center"><img src="Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
-I dette vinduet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å definere. Ved å trykke **EXE** velger man matrisen, kommer inn til vinduet der brukeren kan velge dimensjonene på matrisen der m er rader og n er kolonner. <br> 
+I dette vinduet kan man velge matrisen som skal defineres. Man kan bruke  opp ↑ og ned ↓ ned pilene til å velge matrisen som man ønsker å definere. Ved å trykke <b>EXE</b> velger man matrisen, kommer inn til vinduet der brukeren kan velge dimensjonene på matrisen der m er rader og n er kolonner. <br> 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\matrixVindue.png" 
 width="300" alt="Matrix Manu" />
 <p />
 
-Etter at man har bestemt størrelsene på matrisen trykker man på  **EXE** en gang for å komme i Matrise viduet der man kan definere verdiene i matrisen. 
+Etter at man har bestemt størrelsene på matrisen trykker man på  <b>EXE</b> en gang for å komme i Matrise viduet der man kan definere verdiene i matrisen. 
 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\matrixExample.png" 
@@ -51,8 +51,8 @@ width="300" alt="matrix define window" />
 <p/>
 
 
-Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
-Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
+Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på <b>Exit</b> kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
+Matrisen lages automatisk, derfor kan man trykke på <b>Exit</b> knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
 <br><hr class="dashed" width="100%"><br>
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
@@ -69,7 +69,7 @@ width="300" alt="Matrix alternaive" />
 <br>#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
 <br><hr class="dashed" width="100%"><br>
 
-Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
+Først trykker man på <b>F4</b> og deretter på <b>F1</b> Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene <b>F1</b> <b>F2</b>, <b>F3</b>,<b>F4</b>,<b>F5</b> og man kan få flere valg ved bruk at <b>F6</b>. 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\directDef.png"
 width="300" alt="Matrix definition alt" />
