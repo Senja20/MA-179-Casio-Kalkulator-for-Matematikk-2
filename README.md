@@ -23,14 +23,14 @@ Mode kan velges ved å trykke på **MENU** knappen.
 
 ## Definere matriser  <br>
 
-<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
+<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br><br>
 
 ### 1. Standard definsjon <br>
 
 
-<br><hr class="dashed"><br>
-#### Denne definisjonen vil blir brukt videre<br>
-<br><hr class="dashed"><br>
+<br><hr class="dashed" width="100%"><br>
+#### Denne definisjonen vil blir brukt videre
+<br><hr class="dashed" width="100%"><br>
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger. 
 
@@ -55,21 +55,21 @@ width="300" alt="matrix define window" />
 Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
-<br>--------------------------------------------------------------------------------  <br>
+<br><hr class="dashed" width="100%"><br>
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
 width="300" alt="Matrix alternaive" />
 <p/>
 
-<br>-------------------------------------------------------------- <br><br>
+<br><hr class="dashed" width="100%"><br><br>
 
 
 <br>### 2. Direkte definisjon <br>
 
-<br>------------------------------------------------------------------ <br>
+<br><hr class="dashed" width="100%"><br>
 <br>#### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt <br>
-<br>----------------------------------------------------------------------------<br>
+<br><hr class="dashed" width="100%"><br>
 
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
 <p align="center">
