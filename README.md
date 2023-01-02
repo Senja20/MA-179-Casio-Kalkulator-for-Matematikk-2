@@ -28,9 +28,9 @@ Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan
 ### 1. Standard definsjon
 
 
-<hr width="100%" size="8" align="center">
+-----------------------------------------------
 #### Denne definisjonen vil blir brukt videre
-<hr width="100%" size="8" align="center">
+-------------------------------------------------------------
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger.
 
@@ -55,22 +55,21 @@ width="300" alt="matrix define window" />
 Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på **Exit** kanppen til å forlate dette vinuet. Da skal matrisen bli definert.  
 Matrisen lages automatisk, derfor kan man trykke på **Exit** knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
-<hr width="100%" size="8" align="center">
+--------------------------------------------------------------------------------
 På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
 width="300" alt="Matrix alternaive" />
 <p/>
 
-
-<hr width="100%" size="8" align="center">
+--------------------------------------------------------------
 
 
 ### 2. Direkte definisjon
 
-<hr width="100%" size="8" align="center">
+------------------------------------------------------------------
 #### Alternativ definisjon. I resten av manualen blir ikke denne definisjonen brukt
-<hr width="100%" size="8" align="center">
+----------------------------------------------------------------------------
 
 Først trykker man på **F4** og deretter på **F1**. Deretter kan brukeren bestemme størrelsen på matrisen som skal defineres. Man velger størrelsen ved bruk at knappene **F1**, **F2**,**F3**,**F4**,**F5** og man kan få flere valg ved bruk at **F6**. 
 <p align="center">
