@@ -173,7 +173,7 @@ Man legger til <i>Mat</i> ved å trykke på <b>F1</b> og legger til bokstaven ti
 	width="300" alt="Komma på kalkulatoren " />
 <p/>
 
-Deretter legger man til den andre matrisen, ved å igjen trykke på <b>F1<b>/ for å få opp <i>Mat</i> og legge til bokstaven til matrisen. Til slutt lukker man parantesen ved å trykke på <b>)</b> knappen og trykker på <b>EXE</b>. 
+Deretter legger man til den andre matrisen, ved å igjen trykke på <b>F1</b>/ for å få opp <i>Mat</i> og legge til bokstaven til matrisen. Til slutt lukker man parantesen ved å trykke på <b>)</b> knappen og trykker på <b>EXE</b>. 
 <p align="center">
 	<img src="Matrix\Aug/augMatrixAB.png"
 	width="400" alt="Augment function " />
