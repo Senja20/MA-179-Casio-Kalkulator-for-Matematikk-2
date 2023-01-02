@@ -23,9 +23,9 @@ Mode kan velges ved å trykke på <b>MENU</b> knappen.
 
 <br><br>## Definere matriser  <br>
 
-<br>Det er flere måter å definere en matrise på på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
+<br>Det er flere måter å definere en matrise på CASIO kalkulatoren. Under kan man finne to måter å gjøre dette på.<br>
 
- <br>### 1. Standard definsjon <br>
+<br>### 1. Standard definsjon <br>
 
 <hr class="dashed" width="100%"><br>
 #### Denne definisjonen blir brukt videre
@@ -33,7 +33,7 @@ Mode kan velges ved å trykke på <b>MENU</b> knappen.
 
 Denne metoden er bedre dersom matriser skal brukes flere ganger. 
 
-Ved å trykke på <b>F3</b> på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under "Mat/Vec".
+Ved å trykke på <b>F3</b> på kalkulatoren kommer man inn i "Matrix edition" vinduet. På noen kalkulatorer kan den bli under <i>Mat/Vec</i>.
 
 <p align="center"><img src="Matrix\MatrixAddMatrix\mark-F3.png" width="300" alt="run-mat F3"  class="center" /><p/>
 
@@ -55,7 +55,7 @@ Matrise lagres automatisk, derfor etter at man er ferdig kan man trykke på <b>E
 Matrisen lages automatisk, derfor kan man trykke på <b>Exit</b> knappen for å forlate vinduet etter at man er ferdig med å legge til verdiene. Da er matrisen definert.  
 
 <br><hr class="dashed" width="100%"><br>
-På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg _DEL_, _DEL-A_, og _DIM_ som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
+På bunnen av  "Matrix edition" vinduet kan brukeren også finne valg <i>DEL</i>, <i>DEL-A</i>, og <i>DIM</i> som brukes til å "slette" (nullstille) en valgt matrise, alle matrisene som er lagt inn og endre dimensjonene til matrisen.
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\additionalInfoMatrixVinduet.png"
 width="300" alt="Matrix alternaive" />
@@ -84,20 +84,20 @@ width="300" alt="alternative empty matrix" />
 
 <br>## Henter Lagrede Matriser<br><br>
 
-Ved å trykke på **OPTN** knappen for brukeren oversikt over ulike typer operasjoner som kan gjennomføres. For å finne matriseoperasjoner må man trykke på **F2**. Det første som gjøres er å trykke på **F1** for at "Mat" skal komme opp på skjermen. Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved å velge en av bokstavene på kalkulatorens tastatur. 
+Ved å trykke på <b>OPTN</b> knappen for brukeren oversikt over ulike typer operasjoner som kan gjennomføres. For å finne matriseoperasjoner må man trykke på <b>F2</b> Det første som gjøres er å trykke på <b>F1</b> for at "Mat" skal komme opp på skjermen. Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved å velge en av bokstavene på kalkulatorens tastatur. 
 
 <p align="center">
 <img src="Matrix\MatrixAddMatrix\printMatrixA.png"
 width="300" alt="F1 and alpha" />
 <p/>
 
-## Aritmetiske operasjoner<br><br>
+<br>## Aritmetiske operasjoner<br><br>
 
 Når man har definert en eller flere matriser, er det mulig å utføre ulike operasjoner som addisjon og subtrasjon. 
 
 <br>### Addisjon <br><br>
 
-For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (**+**) symbolet og legge til en annen matrise på slutten. Dersom er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
+For å utføre addisjon må man første legge til "Mat" og deretter velge bokstaven til matriser man ønsker. Deretter velge plus (<b>+</b>) symbolet og legge til en annen matrise på slutten. Dersom er mulig å legge dem sammen vil kalkulatoren legge matrisene sammen og skrive den nye matrisen til viduet. 
 
 <p align="center"><img src="Matrix\MatrixArithmeth\AdditionMatrix.png"
 width="400" alt="Adding matrix" /><p/>
@@ -105,7 +105,7 @@ width="400" alt="Adding matrix" /><p/>
 
 <br>### Subtraksjon <br><br>
 
-For å uføre subtraksjon må man første legge til den ene matrisen, velge muinus (**-**) og legge til den andre matrisen. 
+For å uføre subtraksjon må man første legge til den ene matrisen, velge muinus (<b>-</b>) og legge til den andre matrisen. 
 
 <p align="center">
 	<img src="Matrix\MatrixArithmeth\SubtractMat.png"
@@ -121,7 +121,7 @@ width="400" alt="Gange Matrise A og B" /><p/>
 
 <br>## Skalering av matriser <br><br>
 
-Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperasjonen som vi gjorde over. For å skalere matrisen legger man til "Mat" og velger matrisen slik det ble beskrevet ovenfor. Deretter legger man til gangetegnet (**x**) og tallet som man ønsker å gange matrisen med.
+Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperasjonen som vi gjorde over. For å skalere matrisen legger man til "Mat" og velger matrisen slik det ble beskrevet ovenfor. Deretter legger man til gangetegnet (<b>x</b>) og tallet som man ønsker å gange matrisen med.
 
 <p align="center">
 	<img src="Matrix\ScaleringMatriser\scalingMatrix.png"
@@ -132,7 +132,7 @@ Skalering av matriser med et tall kan gjøres ved å bruke multipliseringsoperas
 
 For å kunne gange matrisen med seg selv flere ganger ved å først finne frem matrisen slik det ble beskrevet ovenfor.
 
-Deretter trykker man på **^** kanppen for å kunne velge eksponenten. Til slutt velger man verdien til eksponenten og trykker på **EXE** for å beregne produktet. 
+Deretter trykker man på <b>^</b> kanppen for å kunne velge eksponenten. Til slutt velger man verdien til eksponenten og trykker på <b>EXE</b> for å beregne produktet. 
 <p align="center">
 	<img src="Matrix\Potenser\PotenserMedMatriser.png"
 	width="400" alt="matrix exponent" />
@@ -142,7 +142,7 @@ Deretter trykker man på **^** kanppen for å kunne velge eksponenten. Til slutt
 
 <br>### Matriseinversjon <br><br>
 
-Inverse matrisen er det sammen som å opphøye en matrise i -1. Først trykker man på **OPTN** og på **F2**. Det første som gjøres er å trykke på **F1** for på skjermen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke man på **^** knappen. I den boksen som kommer opp fyller man inn **-** og 1 og trykker på **EXE** knappen. Dersom operasjonen er mulig å gjennomføre, vil den inverse matrisen komme opp. 
+Inverse matrisen er det sammen som å opphøye en matrise i <b>-1</b>. Først trykker man på <b>EXE</b og på <b>F2</b>. Det første som gjøres er å trykke på <b>F1</b> for på skjermen skal komme opp "Mat" og velger bokstaven til matrisen. Deretter trykke man på <b>^</b> knappen. I den boksen som kommer opp fyller man inn <b/>-</b> og 1 og trykker på <b>EXE</b> knappen. Dersom operasjonen er mulig å gjennomføre, vil den inverse matrisen komme opp. 
 <p align="center">
 	<img src="Matrix\Potenser\inverseMatrix.png"
 	width="400" alt="matrix inverse" />
@@ -150,13 +150,13 @@ Inverse matrisen er det sammen som å opphøye en matrise i -1. Først trykker m
 
 <br>## Determinanten av matrisen <br><br>
 
-Får å finne determinaten av en matrise må man først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. Man får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge _Det_ ved å trykke på **F3**.  
+Får å finne determinaten av en matrise må man først trykke på <b>EXE</b og deretter velge "Mat" ved å trykke på <b>F2</b>. Man får alternativer for ulike matrise operasjoner. Får å finne determinatenten må man velge <i>Det</i> ved å trykke på <b>F3</b>.  
 
 <p align="center">
 	<img src="Matrix\Determinanten/DetButton.png"
 	width="400" alt="Determinant of a matrix F3" />
 <p/>
-Etter å ha lagt til _Det_, velger man matrisen man ønsker å finne determinaten til. Først legger man til _Mat_ og deretter legge til bokstaven som er reletart til matrisen. Ved å trykke på **EXE** får vi determinanten dersom den finnes. 
+Etter å ha lagt til <i>Det</i>, velger man matrisen man ønsker å finne determinaten til. Først legger man til <i>Mat</i> og deretter legge til bokstaven som er reletart til matrisen. Ved å trykke <b>EXE</b får vi determinanten dersom den finnes. 
 <p align="center">
 	<img src="Matrix\Determinanten/DetMatrixB.png"
 	width="400" alt="Determinant of a matrix" />
@@ -164,16 +164,16 @@ Etter å ha lagt til _Det_, velger man matrisen man ønsker å finne determinate
 
 <br>## Augmentere matriser <br><br>
 
-Det å slå sammen to matrisen kan gjøres ved hjelp av "Augment" operasjonen. Man finner den ved å først trykke på **OPTN** og deretter velge "Mat" ved å trykke på **F2**. I dette vinduet kan vi trykke på **F5** som er under _Aug_. _Augment_ skal komme opp på skjermen. Den kommer med en åpen parantes. I denne funksjonen skal man sende inn to matriser som skal bli slått sammen. 
+Det å "slå sammen" to matrisen kan gjøres ved hjelp av "Augment" operasjonen. Man finner den ved å først trykke på <b>OPTN</b> og deretter velge "Mat" ved å trykke på <b>F2</b>. I dette vinduet kan vi trykke på <b>F5</b> som er under <i>Aug</i>. <i>Augment</i> skal komme opp på skjermen. Den kommer med en åpen parantes. I denne funksjonen skal man sende inn to matriser som skal bli slått sammen. 
 
-Man legger til _Mat_ ved å trykke på **F1** og legger til bokstaven til den første matrisen. Man separerer matrisene ved bruk av komma og det legges til ved bruk av **,** knappen. 
+Man legger til <i>Mat</i> ved å trykke på <b>F1</b> og legger til bokstaven til den første matrisen. Man separerer matrisene ved bruk av komma og det legges til ved bruk av <b>,</b> knappen. 
 
 <p align="center">
 	<img src="Matrix\Aug/kommaKnapp.png"
 	width="300" alt="Komma på kalkulatoren " />
 <p/>
 
-Deretter legger man til den andre matrisen, ved å igjen trykke på **F1** for å få opp _Mat_ og legge til bokstaven til matrisen. Til slutt lukker man parantesen ved å trykke på **)** knappen og trykker på **EXE**. 
+Deretter legger man til den andre matrisen, ved å igjen trykke på <b>F1<b>/ for å få opp <i>Mat</i> og legge til bokstaven til matrisen. Til slutt lukker man parantesen ved å trykke på <b>)</b> knappen og trykker på <b>EXE</b>. 
 <p align="center">
 	<img src="Matrix\Aug/augMatrixAB.png"
 	width="400" alt="Augment function " />
@@ -181,7 +181,7 @@ Deretter legger man til den andre matrisen, ved å igjen trykke på **F1** for �
 
 <br>## Sammensatte operasjoner <br><br>
 
-Det er veldig nytting og tidsparende å gjennomføre flere matrise operasjoner på en gang. Får å gjøre det setter man _Mat_ og bokstaven til marisen, legger til operasjonen og den andre matrisen.  Deretter legger man en operasjon til med en annen matrise, slik det er vist under. 
+Det er veldig nytting og tidsparende å gjennomføre flere matrise operasjoner på en gang. Får å gjøre det setter man <i>Mat</i> og bokstaven til marisen, legger til operasjonen og den andre matrisen.  Deretter legger man en operasjon til med en annen matrise, slik det er vist under. 
 <p align="center">
 	<img src="Matrix\SammensattOpr/AxB-A.png"
 	width="400" alt="sammensattte operasjonen" />
@@ -194,13 +194,13 @@ Man kan også bruke potenser og inverser i sammensatte operasjoner. For eksempel
 
 <br>## Row echelone form (trappeform)<br><br>
 
-Ved hjelp av kalkulatoren kan man gjøre matrisene på trappeform. Det første man skal gjøre er å trykker vi på **OPTN** og på **F2**. Trykker man på **F6** og får opp andre operasjoner som man kan gjøre med matriser. Deretter trykker man på **F4** for at _Ref_ skal komme opp.
+Ved hjelp av kalkulatoren kan man gjøre matrisene på trappeform. Det første man skal gjøre er å trykker vi på <b>OPTN</b> og på <b>F2</b> Trykker man på <b>F6</b> og får opp andre operasjoner som man kan gjøre med matriser. Deretter trykker man på <b>F4</b> for at <i>Ref</i> skal komme opp.
 <p align="center">
 	<img src="Matrix\Ref\RefButton.png"
 	width="400" alt="Ref knappen" />
 <p/>
 
-Videre må man velge matrisen som skal rad reduseres. Det første som gjøres er å trykke på **F1** for på skjermen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved på en av bokstavene på kalkulatorens tastaturen. Til slutt trykker vi på **EXE** og matrisen på trappefrom skal komme opp. 
+Videre må man velge matrisen som skal rad reduseres. Det første som gjøres er å trykke på <b>F1</b> for på skjermen skal komme opp "Mat". Deretter trykker vi på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved på en av bokstavene på kalkulatorens tastaturen. Til slutt trykker vi på <b>EXE</b> og matrisen på trappefrom skal komme opp. 
 
 <p align="center">
 	<img src="Matrix\Ref/RefReduced.png"
@@ -209,14 +209,14 @@ Videre må man velge matrisen som skal rad reduseres. Det første som gjøres er
 
 ## Reduced row echelone form (redusert trappeform)
 
-Ved hjelp av kalkulatoren kan man også gjøre matrisene på redusert trappeform. Det første man skal gjøre er å trykker vi på **OPTN** og på **F2**. Trykker på **F6** og får opp andre operasjoner som man kan gjøre med matrisene. Deretter trykker man på **F5** for at _Rref_ skal komme opp.
+Ved hjelp av kalkulatoren kan man også gjøre matrisene på redusert trappeform. Det første man skal gjøre er å trykker vi på <b>OPTN</b> og på <b>F2</b>. Trykker på <b>F6</b> og får opp andre operasjoner som man kan gjøre med matrisene. Deretter trykker man på <b>F5</b> for at <i>Rref</i> skal komme opp.
 
 <p align="center">
 	<img src="Matrix\Rref/Rrefbutton.png"
 	width="400" alt="Rref button F5" />
 <p/>
 
-Videre må man velge matrisen som skal rad reduseres. Det første som gjøres er å trykke på **F1** for på skjermen skal komme opp "Mat". Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved på en av bokstavene på kalkulatorens tastaturen. Til slutt trykker vi på **EXE** og matrisen på redusert trappefrom skal komme opp. 
+Videre må man velge matrisen som skal rad reduseres. Det første som gjøres er å trykke på <b>F1</b> for på skjermen skal komme opp "Mat". Deretter trykker man på <strong style="color:red" >Alpa</strong> knappen og velger matrisen ved på en av bokstavene på kalkulatorens tastaturen. Til slutt trykker vi på <b>EXE</b> og matrisen på redusert trappefrom skal komme opp. 
 <p align="center">
 	<img src="Matrix\Rref/RrefMatC.png"
 	width="400" alt="Rref redusert trappeform" />
